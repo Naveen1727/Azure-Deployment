@@ -11,7 +11,7 @@ public class HomeController {
 		}
 		
 		public static void main(String[] args) {
-			String name="Naveen";
+			String name="Naveen 1727";
 			char ch[]=name.toCharArray();String word="";
 			for(int i=name.length()-1;i>=0;i--) {
 				word+=ch[i];
