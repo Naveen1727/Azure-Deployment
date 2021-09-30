@@ -17,6 +17,6 @@ public class HomeController {
 				word+=ch[i];
 				System.out.println(ch[i]);
 			}
-			System.out.println("Word is"+word);
+			System.out.println("Word is"+word 1);
 		}
 }
